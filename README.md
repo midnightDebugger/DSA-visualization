@@ -29,6 +29,50 @@ graph TD;
     Algorithms-->Hashing; 
 ```
 
+### Data Structures
+  - **Linear Data Structures**
+    - Array
+    - Matrix
+    - Stack
+    - Queue
+    - Linked List
+  - **Non-linear Data Structures**
+    - Tree
+    - Graph
+    - Trie
+    - Hash Table
+- ### Algorithms
+  - **Sorting**
+    - Selection Sort
+    - Insertion Sort
+    - Merge Sort
+    - Quick Sort
+    - Counting Sort
+    - Radix Sort
+    - Bucket Sort
+    - Shell Sort
+    - Heap Sort
+  - **Searching**
+    - Linear Search
+    - Binary Search
+    - Jump Search
+    - Interpolation Search
+    - Exponential Search
+    - Fibonacci Search
+  - **Divide and Conquer**
+    - Merge Sort
+    - Quick Sort
+    - Strassen's Algorithm
+    - Closest Pair of Points
+    - Karatsuba Algorithm
+  - **Recursive**
+  - **Dynamic Programming**
+  - **Greedy**
+  - **Backtracking**
+  - **Hashing**
+  - **Randomized**
+
+
 ## Connect with me ~Manthru
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/rajesh-rathore-0501/](https://www.linkedin.com/in/manthru-naik-ramavath-0995b9243/))
