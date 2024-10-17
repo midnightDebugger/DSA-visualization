@@ -66,6 +66,8 @@ graph TD;
     - Closest Pair of Points
     - Karatsuba Algorithm
   - **Recursive**
+  - **Sliding Windows**
+  - **Heap**
   - **Dynamic Programming**
   - **Greedy**
   - **Backtracking**
