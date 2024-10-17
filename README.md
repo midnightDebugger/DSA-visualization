@@ -81,3 +81,10 @@ graph TD;
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://127.0.0.1:5500/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)]([https://twitter.com/Rajesh946055](https://x.com/manthrunaik_123))
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]([https://www.instagram.com/raj_rathod1313/?hl=en](https://www.instagram.com/_manthru_/))
+
+
+***Do star, fork and share the repo to show your support, it would help others too!***   <br>
+ <br>
+ Let me know your views or any changes or improvements or contribute to make better for others 
+ 
+ :heart: ***Thank you all for Forking this repository and contribute***  :heart:
