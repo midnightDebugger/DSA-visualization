@@ -1,5 +1,5 @@
 # Design
-https://www.figma.com/proto/AIQFaXwsbZwIo62sBDPgdg/DSA--Visualization?node-id=1-4&node-type=canvas&t=w8TqangroSU3zEl8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4
+<a href="https://www.figma.com/proto/AIQFaXwsbZwIo62sBDPgdg/DSA--Visualization?node-id=1-4&node-type=canvas&t=w8TqangroSU3zEl8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4">><b>View Desgin</b></a>
 # DSA-visualization
 👋
 A Data Structure and Algorithms (DSA) visualization project visually represents how various data structures (e.g., arrays, linked lists, trees) and algorithms (e.g., sorting, searching) work. By creating interactive, animated diagrams, this project helps users understand key concepts, time complexities, and algorithmic behavior, improving learning and problem-solving skills.
